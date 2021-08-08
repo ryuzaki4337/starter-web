@@ -8,7 +8,7 @@ Hi, this is Lalithaditya Kota, currently working as a Digital Engineer at Tata D
 
 ## Purpose
 
-Sample website with plenty of files for demos
+To learn Git and GitHub.
 
 ## More Info
 
