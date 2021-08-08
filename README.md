@@ -22,4 +22,5 @@ These are some of the websites used for Git and GitHub
 
 Name: Kota Lalithaditya
 Phone Number : 8297354463
+Education :B.Tech
 Pincode : 530024.
