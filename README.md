@@ -8,7 +8,7 @@ Hi, this is Lalithaditya Kota, currently working as a Digital Engineer at Tata D
 
 ## Rebase
 
-Doing rebase is a good software practice.
+Doing rebase is a good software practice. But be careful of the errors.
 
 ## Purpose
 
