@@ -6,6 +6,10 @@ This repository is for showing how Git and GitHub work
 
 Hi, this is Lalithaditya Kota, currently working as a Digital Engineer at Tata Digital.
 
+## Rebase
+
+Doing rebase is a good software practice.
+
 ## Purpose
 
 To learn Git and GitHub.
