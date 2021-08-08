@@ -13,3 +13,8 @@ To learn Git and GitHub.
 ## More Info
 
 These are some of the websites used for Git and GitHub
+
+## Details of the author
+
+Name: Kota Lalithaditya
+Phone Number : 8297354463
